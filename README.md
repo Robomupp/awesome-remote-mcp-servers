@@ -2997,6 +2997,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Publish.fun](https://publish.fun) `https://publish.fun/api/mcp`
   [![Publish.fun MCP connector](https://glama.ai/mcp/connectors/fun.publish/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/fun.publish/mcp)
   🔓 - AI-native research journal: agents submit papers for AI peer review, track decisions, revise and cite.
+- [QuickUnits](https://quickunits.global) `https://quickunits.global/mcp`
+  🔓 - Exact unit conversion across 213 pairs: states the factor behind each answer and cites a page per conversion.
 - [Research Methods Library](https://research-methods-mcp.vercel.app/) `https://research-methods-mcp.vercel.app/mcp`
   [![Research Methods Library MCP connector](https://glama.ai/mcp/connectors/io.github.mikenguyen13/research-methods-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mikenguyen13/research-methods-mcp)
   🔓 - Study designs, assumptions, runnable R and Python code, and citations from research methods textbooks.
